@@ -1,0 +1,76 @@
+{
+  "posts": [
+    {
+      "name": "Siva",
+      "location": "Bengaluru",
+      "likes": 64,
+      "description": "Kick start your career",
+      "PostImage": "/images/post1.jpg",
+      "date": "2024-07-01T00:00:00Z",
+      "id": "e413"
+    },
+    {
+      "name": "Neeraj",
+      "location": "Pune",
+      "likes": 30,
+      "description": "Sample Description",
+      "PostImage": "/images/post2.jpg",
+      "date": "2024-07-02T00:00:00Z",
+      "id": "9027"
+    },
+    {
+      "name": "Rahul",
+      "location": "Hyderabad",
+      "likes": 30,
+      "description": "Sample Description for Post",
+      "PostImage": "/images/post3.jpg",
+      "date": "2024-07-03T00:00:00Z",
+      "id": "a05e"
+    },
+    {
+      "id": "ad6f",
+      "name": "kishan",
+      "location": "bengaluru",
+      "description": "A beautiful mountain sight .",
+      "PostImage": "/images/instaCloneIMG1.jpg",
+      "likes": 87,
+      "date": "2025-07-27T11:50:54.759Z"
+    },
+    {
+      "id": "d69f",
+      "author": "kishan",
+      "location": "bengaluru",
+      "description": "A lovely snow view",
+      "image": "/images/instacloneIMG2.jpg",
+      "likes": 4,
+      "date": "27/07/2025"
+    },
+    {
+      "id": "a4c2",
+      "name": "Aman",
+      "location": "bengaluru",
+      "description": "Ocean view",
+      "PostImage": "/images/instacloneIMG3.jpg",
+      "likes": 2,
+      "date": "27/07/2025"
+    },
+    {
+      "id": "e482",
+      "name": "nea lon",
+      "location": "bengaluru",
+      "description": "snow view",
+      "PostImage": "/images/instacloneIMG2.jpg",
+      "likes": 15,
+      "date": "2025-07-27T13:42:32.986Z"
+    },
+    {
+      "id": "848d",
+      "name": "pragyan",
+      "location": "chennai",
+      "description": "ocean ",
+      "PostImage": "/images/instacloneIMG3.jpg",
+      "likes": 72,
+      "date": "2025-07-27T15:04:56.225Z"
+    }
+  ]
+}
